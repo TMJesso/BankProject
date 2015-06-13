@@ -16,7 +16,7 @@ import javafx.stage.Stage;
 
 /**
  * @mentor Professor Dr. Awny Alnusair<br><br>
-
+ *
  * @author Theral Jessop<br>
  * Apr 6, 2015<br>
  * NewFXBanker.java<br>
