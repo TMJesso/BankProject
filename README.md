@@ -13,7 +13,7 @@ Numbers or have the system create one for you.
 
 Customers can have multiple accounts but an account must have
 one customer. You will not be able to remove a customer from
-from the system unless all accounts that this customer has
+the system unless all accounts that this customer has
 are also removed.
 
 All transactions are tracked that affect the Account Balance.
@@ -33,7 +33,7 @@ the $10.00 interest fee will be subtracted from it.
 
 A Checking Account, by default, is not an interest baring account.
 This account tracks transactions and the first two per month are free
-and and all others will be charged a $3.00 fee for each transation
+and all others will be charged a $3.00 fee for each transation
 throughout that month until EOM is calculated.
 
 This is the basic description of the system.
